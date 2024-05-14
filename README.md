@@ -67,7 +67,7 @@ Otomatisasi dengan teknologi CRUD (Create, Read, Update, Delete) dan AJAX tanpa 
 https://code.candilkuya.com/2021/08/source-code-aplikasi-website-spp.html
 
 # Poster
-![Poster SPPWEB resize](https://github.com/Aulia038/EduPay-Web-App/assets/169772210/92799606-07fd-40a4-988d-6d48a9e9996e)
+![Poster SPPWEB rsz kcl](https://github.com/Aulia038/EduPay-Web-App/assets/169772210/3b19db32-dc6d-4ddd-8335-a292d8a7b51e)
 
 
 
