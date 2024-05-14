@@ -1,5 +1,3 @@
-# EduPay-Web-App
-
 # Deskripsi Singkat
 EduPay mengelola pembayaran dengan lebih mudah dan transparan.
 
